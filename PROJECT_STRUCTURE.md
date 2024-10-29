@@ -22,6 +22,11 @@
 │   ├── Newsletter.png
 │   ├── avatar.png
 │   ├── avatar1.png
+│   ├── certi 1.svg
+│   ├── certi 2.svg
+│   ├── certi 3.svg
+│   ├── certi 4.png
+│   ├── certi 5.png
 │   ├── dev1.jpeg
 │   ├── dev2.jpeg
 │   ├── dev3.jpeg
@@ -65,6 +70,8 @@
 │   │   │   ├── About/
 │   │   │   │   └── page.jsx
 │   │   │   ├── AddHackathon/
+│   │   │   │   └── page.jsx
+│   │   │   ├── Certifications/
 │   │   │   │   └── page.jsx
 │   │   │   ├── Chapters/
 │   │   │   │   └── page.jsx
@@ -133,8 +140,6 @@
 │   │   │   │   │   └── page.jsx
 │   │   │   │   ├── opportunities.js
 │   │   │   │   └── page.jsx
-│   │   │   ├── certifications/
-│   │   │   │   └── page.jsx
 │   │   │   ├── devStudent/
 │   │   │   │   └── page.jsx
 │   │   │   ├── devprod/
@@ -179,6 +184,7 @@
 │   │   ├── globals.css
 │   │   ├── images/
 │   │   │   ├── ai_img.jpg
+│   │   │   ├── gdsc-logo.png
 │   │   │   └── teamMember.jpg
 │   │   ├── layout.js
 │   │   ├── not-found.jsx
@@ -190,7 +196,8 @@
 │   │   │   ├── AddHackathonForm.jsx
 │   │   │   ├── Footer.jsx
 │   │   │   ├── Header.jsx
-│   │   │   └── Hero.jsx
+│   │   │   ├── Hero.jsx
+│   │   │   └── Navbar.jsx
 │   │   └── ui/
 │   │       ├── aspect-ratio.jsx
 │   │       ├── back2top.jsx
